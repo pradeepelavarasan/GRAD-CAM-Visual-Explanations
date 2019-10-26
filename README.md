@@ -1,6 +1,6 @@
 # GRAD-CAM-Visual-Explanations
 
-This project helps to identify the misclassified images (from pre-trained ResNet18 Model trained on CIFAR10) and using GRAD CAM visualize how the network focuses on important parts fo the images to guess the final results. 
+This project helps to identify the misclassified images (from pre-trained ResNet18 Model trained on CIFAR10) and using GRAD CAM visualize how the network focuses on important parts fo the images to predict the final results. 
 
 ## Steps Involved:
 
