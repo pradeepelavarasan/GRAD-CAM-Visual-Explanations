@@ -15,3 +15,7 @@ This project helps to identify the misclassified images (from pre-trained ResNet
 
 ## Gallery of 50 misclassified images with GRAD-CAM:
 ![my_image](/50%20Misclassified%20Images%20with%20GRAD-CAM.JPG)
+
+
+References:
+http://www.hackevolve.com/where-cnn-is-looking-grad-cam/
