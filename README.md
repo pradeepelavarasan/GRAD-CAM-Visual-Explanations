@@ -11,7 +11,7 @@ This project helps to identify the misclassified images (from pre-trained ResNet
 ### 5) Visualize the gallery of these 50 misclassified images along with the GRAD CAM results
 
 ## Gallery of 50 misclassified images:
-![my_image](/50 Misclassified Images.JPG)
+![my_image](/50%20Misclassified%20Images.JPG)
 
 ## Gallery of 50 misclassified images with GRAD-CAM:
-![my_image](/50 Misclassified Images with GRAD-CAM.JPG)
+![my_image](/50%20Misclassified%20Images%20with%20GRAD-CAM.JPG)
